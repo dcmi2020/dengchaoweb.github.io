@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Welcome to Hux Blog"
+title:      "Welcome to my Blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+date:       2016-03-22 22:34:00
+author:     "dcmi"
+header-img: "img/post-bg-2016.jpg"
 tags:
     - 生活
 ---
@@ -20,7 +20,7 @@ Hux 的 Blog 就这么开通了。
 
 
 
-2015 年，Hux 总算有个地方可以好好写点东西了。
+2016 年，在我看了许多前端相关的书籍和技术博客后，我想做一个自己的博客，github pages这个免费的静态站点吸引了我。
 
 
 作为一个程序员， Blog 这种轮子要是挂在大众博客程序上就太没意思了。一是觉得大部分 Blog 服务都太丑，二是觉得不能随便定制不好玩。之前因为太懒没有折腾，结果就一直连个写 Blog 的地儿都没有。
