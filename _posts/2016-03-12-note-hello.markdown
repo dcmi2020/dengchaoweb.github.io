@@ -14,7 +14,7 @@ tags:
 
 ## 前言
 
-Hux 的 Blog 就这么开通了。
+ChaoSir 的 Blog 就这么开通了。
 
 [跳过废话，直接看技术实现 ](#build)
 
@@ -54,8 +54,10 @@ Hux 的 Blog 就这么开通了。
 ---
 
 配置的过程如下：
- 1.安装jekyll：
+ 1.[安装jekyll：](http://jekyllrb.com/)
+
  $ gem install jekyll
+ 
  但是在安装rubyGems的时候遇到了error，百度一查，原来大家都和我一样嘛，国内的网被屏蔽了o(︶︿︶)o ，所以我们借用jekyll官方文档说的方法：安装之前需要配置ruby和rubyGems的环境,安装 Jekyll 的最好方式就是使用 RubyGems。
  ，于是看到别的解决方法————淘宝团队搭建的ruby gems镜像：
    $ gem sources --remove https://rubygems.org/
