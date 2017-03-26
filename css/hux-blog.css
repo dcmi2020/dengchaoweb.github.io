@@ -433,12 +433,6 @@ pre code {
   margin: 10px 0 0;
   color:white;
 }
-.intro-header .site-heading .subheading a{
-  color:white;
-}
-.intro-header .site-heading .subheading a:hover{
-  color:red;
-}
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
