@@ -2,7 +2,7 @@
 layout:     post
 title:      "Welcome to my Blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2016-03-22 22:34:00
+date:       2016-08-22 22:34:00
 author:     "dcmi"
 header-img: "img/post-bg-2016.jpg"
 tags:
