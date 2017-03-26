@@ -2,7 +2,7 @@
 layout:     post
 title:      "Second Post"
 subtitle:   "一些笔记"
-date:       2016-04-14
+date:       2016-05-14
 author:     "chaosir"
 header-img: "img/post-bg-unix-linux.jpg"
 tags:
