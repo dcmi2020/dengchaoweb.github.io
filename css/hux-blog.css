@@ -418,7 +418,7 @@ pre code {
   margin-top: 0;
   font-size: 50px;
 }
-.intro-header .site-heading .subheading,
+.intro-header .site-heading .subheading a,
 .intro-header .page-heading .subheading {
   /* Hux learn from
      *     TypeIsBeautiful,
